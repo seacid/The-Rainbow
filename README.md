@@ -38,6 +38,6 @@ I hope The Rainbow can be a plugin that is easy to learn, sounds good, is conven
 
 May we all shine brightly.
 
-[Download The Rainbow v1.0.0](https://github.com/seacid/The-Rainbow/releases/tag/Rainbow)
+[Download The Rainbow v1.0.0](https://github.com/seacid/The-Rainbow/releases/download/Rainbow/The.Rainbow.v1.0.0.zip)
 
 [Download The Rainbow v1.0.0（BaiduNetdisk）](https://pan.baidu.com/s/1lk3kobuN2XKKptza2CN2Mw?pwd=SASS)
