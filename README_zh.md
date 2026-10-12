@@ -38,7 +38,7 @@ Agent时代的到来，不禁让我思考混音是否已经到了门槛降低的
 
 祝我们都能闪闪发光
 
-[下载 The Rainbow v1.0.0](https://github.com/seacid/The-Rainbow/releases/tag/Rainbow)
+[下载 The Rainbow v1.0.0](https://github.com/seacid/The-Rainbow/releases/download/Rainbow/The.Rainbow.v1.0.0.zip)
 
 [下载 The Rainbow v1.0.0（百度网盘）](https://pan.baidu.com/s/1lk3kobuN2XKKptza2CN2Mw?pwd=SASS)
 
